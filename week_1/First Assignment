@@ -1,0 +1,21 @@
+Assignment Question 1
+
+enter_name=input("Please Enter you Name")
+j = 0#len(enter_name)
+for i in enter_name:
+    #print(" "*j)
+    print(" "*j,i,sep='')
+    j = j + 1
+                
+
+Assignment Question 2
+
+import time as tm
+
+song = "Najaane kab se Umeedain kuch baqi hain, Mujhe phir bhi teri yaad, Kyun ati hai? , Najaane kab se, Durr jitna bhi tum mujhse, Paas tere main, Ab tau addat si hai mujhko aise jeene main, Zindagi se koi shiwva bhi nahi hai, Ab tau zinda hun main iss neele asmaan main, Chaahat aisi hai yeh teri, Barhti jaye, Aahat aise hai yeh teri mujhko sataye"
+song_lines = song.split(',')
+for i in range(len(song_lines)):
+    print(song_lines[i])
+    tm.sleep(1)
+    
+    
