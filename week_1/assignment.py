@@ -33,6 +33,6 @@ def printSong(song):
     songparagraph = song.split(', ')
     print('Your Song is:')
     for i in range(len(songparagraph)):
-        print(songparagraph[i])
+        print(songparagraph[i])g
         time.sleep(1)
 printSong(song)
