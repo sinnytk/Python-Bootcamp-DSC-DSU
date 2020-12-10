@@ -3,3 +3,4 @@ In the second program, i have created a dictionary of lists and by running throu
 in the third program using split function, first i spilited whole song in small fragment putting them in list and then looping over each index to print them.Plus used time.sleep function to delay the execution of each line.
 https://github.com/saif-byte/Python-Bootcamp-DSC-DSU/blob/main/week_1/DSC_python_assignment/DiagonalName%20output.PNG
 https://github.com/saif-byte/Python-Bootcamp-DSC-DSU/blob/main/week_1/DSC_python_assignment/SongLyrics%20output.PNG
+https://github.com/saif-byte/Python-Bootcamp-DSC-DSU/blob/main/week_1/DSC_python_assignment/Student%20Record%20output.PNG
