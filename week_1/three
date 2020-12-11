@@ -1,9 +1,12 @@
-def slyrics(): 
-    import time
-f = open(input(), "r")       #input .txt file  
+import time
 
-for i in range(35):
-    print(f.readline())
-    time.sleep(1)
+def slyrics(): 
+    f=open("C:\Users\Maleeha\Documents\GitHub\assignment1\_lyrics.txt","r")
+   #f = open(input(), "r")       #input .txt file  
+
+    for i in range(35):
+       print(f.readline())
+       time.sleep(1)
     
+
 slyrics()
