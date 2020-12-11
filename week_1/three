@@ -1,6 +1,6 @@
 def slyrics(): 
     import time
-f = open(input(), "r")
+f = open(input(), "r")       #input .txt file  
 
 for i in range(35):
     print(f.readline())
