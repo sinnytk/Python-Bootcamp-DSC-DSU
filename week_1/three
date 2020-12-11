@@ -1,0 +1,9 @@
+def slyrics(): 
+    import time
+f = open(input(), "r")
+
+for i in range(35):
+    print(f.readline())
+    time.sleep(1)
+    
+slyrics()
