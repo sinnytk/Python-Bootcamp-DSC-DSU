@@ -10,6 +10,7 @@
 - [Running Python: **Interactive Python notebooks (Jupyter Notebook/Google Colab)**](<###\ Running Python: **Interactive Python notebooks (Jupyter Notebook/Google Colab)**>)
 - [Running Python: **Scripts**](<###\ Running\ Python:\ **Scripts**>)
 
+<<<<<<< HEAD
 ## Week 1, Day 2
 
 By _Bahawal Baloch_, Python@DSU Co-Lead and Core Team member
@@ -856,9 +857,19 @@ TypeError: unhashable type: 'list'
   >>> PSL_teams.get("Shikarpur","Not found")
   'Not found'
   ```
+=======
+   for printing characters diagonaly i create a loop which have range of user input then i add spaces at each itration then the character of user input
+   
+<br>
+2. Create a program to take as input 5 student records in the following format:
+
+<br>
+<br>
+>>>>>>> c2dfbd5daa4bc2edecc870e02d7be60c845ce70a
 
 - `.keys()` `.values()` and `.items()`
 
+<<<<<<< HEAD
   ```bash
   >>> PSL_teams.keys()
   dict_keys(['Islamabad', 'Karachi', 'Lahore', 'Multan', 'Quetta', 'Peshawar'])
@@ -876,3 +887,6 @@ TypeError: unhashable type: 'list'
   ('Quetta', 'Quetta Gladiators'),
   ('Peshawar', 'Peshawar Zalmi')])
   ```
+=======
+store a song in a song variable then split it at every part which has , then print all the parts at 1 sec delay
+>>>>>>> c2dfbd5daa4bc2edecc870e02d7be60c845ce70a
